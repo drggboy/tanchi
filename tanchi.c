@@ -396,7 +396,7 @@ void welcometogame()//¿ªÊ¼½çÃæ
 {
  	Pos(40,12);
  	system("title Ì°³ÔÉß");
- 	printf("»¶Ó­À´µ½Ì°Ê³ÉßÓÎÏ·£¡");
+ 	printf("»¶Ó­À´µ½Ì°³ÔÉßÓÎÏ·£¡");
  	Pos(40,25);
  	system("pause");
  	system("cls");
